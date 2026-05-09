@@ -58,4 +58,7 @@ dependencies {
 
     //Navigation Compose
     implementation("androidx.navigation:navigation-compose:2.9.8")
+
+    // Coil para cargar imágenes desde URL
+    implementation("io.coil-kt:coil-compose:2.6.0")
 }
