@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">UESANApp</string>
+    <string name="app_name">SafeGuard AI</string>
+    <string name="accessibility_service_description">SafeGuard AI utiliza este servicio para analizar mensajes sospechosos en aplicaciones de mensajería y protegerte de estafas en tiempo real.</string>
 </resources>

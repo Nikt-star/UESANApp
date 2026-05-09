@@ -61,4 +61,12 @@ dependencies {
 
     // Coil para cargar imágenes desde URL
     implementation("io.coil-kt:coil-compose:2.6.0")
+
+    // Material Icons Extended
+    implementation("androidx.compose.material:material-icons-extended")
+
+    // Room
+    implementation(libs.androidx.room.runtime)
+    implementation(libs.androidx.room.ktx)
+    annotationProcessor(libs.androidx.room.compiler)
 }
